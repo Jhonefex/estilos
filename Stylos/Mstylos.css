@@ -45,3 +45,18 @@ pre {
 .center-img img {
     display: inline-block;
 }
+table {
+    width: 100%;
+  }
+  table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+ #r {
+    color: rgb(255, 0, 76);
+ } 
